@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/starocean/static/css/main.ce4e3a04.chunk.css",
+    "main.js": "/starocean/static/js/main.74472aaa.chunk.js",
+    "main.js.map": "/starocean/static/js/main.74472aaa.chunk.js.map",
+    "runtime-main.js": "/starocean/static/js/runtime-main.c18eaf6f.js",
+    "runtime-main.js.map": "/starocean/static/js/runtime-main.c18eaf6f.js.map",
+    "static/js/2.fcbb916c.chunk.js": "/starocean/static/js/2.fcbb916c.chunk.js",
+    "static/js/2.fcbb916c.chunk.js.map": "/starocean/static/js/2.fcbb916c.chunk.js.map",
+    "index.html": "/starocean/index.html",
+    "precache-manifest.70c3b192358bca18a05c002efbf3963e.js": "/starocean/precache-manifest.70c3b192358bca18a05c002efbf3963e.js",
+    "service-worker.js": "/starocean/service-worker.js",
+    "static/css/main.ce4e3a04.chunk.css.map": "/starocean/static/css/main.ce4e3a04.chunk.css.map",
+    "static/js/2.fcbb916c.chunk.js.LICENSE": "/starocean/static/js/2.fcbb916c.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c18eaf6f.js",
+    "static/js/2.fcbb916c.chunk.js",
+    "static/css/main.ce4e3a04.chunk.css",
+    "static/js/main.74472aaa.chunk.js"
+  ]
+}
